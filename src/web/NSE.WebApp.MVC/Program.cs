@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 #region Services
 builder.Services.AddIdentityConfiguration();
 builder.Services.AddMvcConfiguration();
+builder.Services.RegisterServices();
 #endregion
 
 #region Configure
