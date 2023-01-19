@@ -1,6 +1,8 @@
-﻿namespace NSE.WebApp.MVC.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace NSE.WebApp.MVC.Controllers
 {
-    public class IdentidadeController
+    public class IdentidadeController: Controller
     {
     }
 }
