@@ -1,5 +1,4 @@
-﻿using System;
-using NSE.Core.DomainObjects;
+﻿using NSE.Core.DomainObjects;
 
 namespace NSE.Clientes.API.Models
 {
